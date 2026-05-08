@@ -75,18 +75,12 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=sankalpt30&show_icons=true&theme=tokyonight&hide_border=true" 
-    width="100%" 
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=sankalpt30&show_icons=true&theme=tokyonight" height="170"/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sankalpt30&theme=tokyonight" height="170"/>
 </p>
 
-<p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=sankalpt30&theme=tokyonight&hide_border=true" 
-    width="100%" 
-  />
-</p>
+---
 
 ## 🧠 Currently Learning
 
@@ -108,7 +102,7 @@
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
   </a>
   
-  <a href="https://www.linkedin.com/in/s%C3%A0nkalp-tiwari/" target="_blank">
+<a href="https://www.linkedin.com/in/s%C3%A0nkalp-tiwari/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
