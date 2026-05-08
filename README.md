@@ -75,12 +75,18 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sankalpt30&show_icons=true&theme=tokyonight" height="170"/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sankalpt30&theme=tokyonight" height="170"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=sankalpt30&show_icons=true&theme=tokyonight&hide_border=true" 
+    width="100%" 
+  />
 </p>
 
----
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=sankalpt30&theme=tokyonight&hide_border=true" 
+    width="100%" 
+  />
+</p>
 
 ## 🧠 Currently Learning
 
